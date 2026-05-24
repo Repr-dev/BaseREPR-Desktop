@@ -1,0 +1,11 @@
+﻿  BaseREPR-Desktop.cpp
+C:\Users\mjshu\Desktop\Jonathan's Stuff\Files\modern\BaseREPR-Desktop\BaseREPR-Desktop.cpp(27,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mjshu\Desktop\Jonathan's Stuff\Files\modern\BaseREPR-Desktop\BaseREPR-Desktop.cpp(122,32): warning C4244: '+=': conversion from 'double' to 'unsigned __int64', possible loss of data
+C:\Users\mjshu\Desktop\Jonathan's Stuff\Files\modern\BaseREPR-Desktop\BaseREPR-Desktop.cpp(128,29): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned short', possible loss of data
+C:\Users\mjshu\Desktop\Jonathan's Stuff\Files\modern\BaseREPR-Desktop\BaseREPR-Desktop.cpp(139,12): warning C4129: '.': unrecognized character escape sequence
+C:\Users\mjshu\Desktop\Jonathan's Stuff\Files\modern\BaseREPR-Desktop\BaseREPR-Desktop.cpp(139,12): warning C4129: '+': unrecognized character escape sequence
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 967 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  BaseREPR-Desktop.vcxproj -> C:\Users\mjshu\Desktop\Jonathan's Stuff\Files\modern\BaseREPR-Desktop\x64\Release\BaseREPR-Desktop.exe

@@ -1,0 +1,7 @@
+﻿  BaseREPR-Desktop.cpp
+C:\Users\mjshu\Desktop\Jonathan's Stuff\Files\modern\BaseREPR-Desktop\BaseREPR-Desktop.cpp(14,42): warning C4267: 'argument': conversion from 'size_t' to 'const _Elem', possible loss of data
+C:\Users\mjshu\Desktop\Jonathan's Stuff\Files\modern\BaseREPR-Desktop\BaseREPR-Desktop.cpp(14,42): warning C4267:         with
+C:\Users\mjshu\Desktop\Jonathan's Stuff\Files\modern\BaseREPR-Desktop\BaseREPR-Desktop.cpp(14,42): warning C4267:         [
+C:\Users\mjshu\Desktop\Jonathan's Stuff\Files\modern\BaseREPR-Desktop\BaseREPR-Desktop.cpp(14,42): warning C4267:             _Elem=char
+C:\Users\mjshu\Desktop\Jonathan's Stuff\Files\modern\BaseREPR-Desktop\BaseREPR-Desktop.cpp(14,42): warning C4267:         ]
+  BaseREPR-Desktop.vcxproj -> C:\Users\mjshu\Desktop\Jonathan's Stuff\Files\modern\BaseREPR-Desktop\x64\Debug\BaseREPR-Desktop.exe
